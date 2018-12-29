@@ -71,4 +71,3 @@ cf. DD(Deployment Description) : 서블릿과 JSP 수행을 위한 정보들이 
 - 세션 객체들은 서버에 남아서 자원을 소모하지만 서버에서는 클라이언트가 떠났는지 알 수 없음
 - 세션이 종료되는 이유는 시간이 다되거나, 세션 객체의 invaliate() 실행, 애플리케이션 다운
 
-{% include JB/setup %}
