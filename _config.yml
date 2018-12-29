@@ -131,3 +131,5 @@ JB :
   
   paginate: 5
 
+
+theme: jekyll-theme-cayman
